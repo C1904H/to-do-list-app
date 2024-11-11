@@ -2,7 +2,7 @@
 
 body {
 font: normal normal 13px/16px "Open Sans", sans-serif;
-background: #f0f8ff;
+background: #d7dfdc;
 }
 
 .container{
@@ -23,7 +23,7 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#fc999b;
+background-color: #e85395;
 color:#ffffff;
 border-radius: 5px;
 text-align:center;
